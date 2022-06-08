@@ -49,6 +49,7 @@ h2 {
     border-radius: 10px;
     text-align: center;
     transition: 0.5s;
+    text-shadow: 1px 1px 2px #ffffff;
 }
 h2:hover{
     color: #6200ee;
@@ -75,10 +76,12 @@ dt {
     margin: 2px;
     text-align: center;
     transition: 0.5s;
+    text-shadow: 1px 1px 2px #ffffff;
 }
 dt:hover {
     color: white;
     background-color: #bb86fc;
+    text-shadow: 1px 1px 2px #6200ee;
 }
 
 dt span {
@@ -103,10 +106,12 @@ dd {
     opacity: 85%;
     padding-left: 10px;
     transition: 0.5s;
+    text-shadow: 1px 1px 2px #ffffff;
 }
 dd:hover{
     color: white;
     background-color: #bb86fc;
+    text-shadow: 1px 1px 2px #6200ee;
 }
 dd label {
     padding: 3px 0;
