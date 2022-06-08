@@ -1,8 +1,8 @@
 {
-  "name": "Einkaufsliste",
+  "name": "Watchlist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jacquelineschmitz.github.io",
+  "homepage": "https://jacquelineschmitz.github.io/Watchlist/",
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
